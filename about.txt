@@ -1,3 +1,7 @@
 about 
 editted
+<<<<<<< HEAD
 conflict 2
+=======
+conflict
+>>>>>>> b6473d3029ed36a5b8873f43cba0548577247b58
